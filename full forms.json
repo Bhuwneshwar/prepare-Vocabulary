@@ -1,0 +1,430 @@
+[
+  {
+    "abbreviation_hindi": "बी.बी.सी.",
+    "full_form_hindi": "ब्रिटिश ब्राडकास्टिंग कारपोरेशन",
+    "abbreviation_english": "B.B.C.",
+    "full_form_english": "British Broadcasting Corporation"
+  },
+  {
+    "abbreviation_hindi": "बी.सी.",
+    "full_form_hindi": "बिफोर क्राइस्ट (ईसा पूर्व)",
+    "abbreviation_english": "B.C.",
+    "full_form_english": "Before Christ"
+  },
+  {
+    "abbreviation_hindi": "बी.एस.एफ.",
+    "full_form_hindi": "बोर्डर सिक्योरिटी फोर्स",
+    "abbreviation_english": "B.S.F.",
+    "full_form_english": "Border Security Force"
+  },
+  {
+    "abbreviation_hindi": "सी.ए.",
+    "full_form_hindi": "चार्टर्ड एकाउंटेंट",
+    "abbreviation_english": "C.A.",
+    "full_form_english": "Chartered Accountant"
+  },
+  {
+    "abbreviation_hindi": "सी. एण्ड ए. जी.",
+    "full_form_hindi": "कंट्रोलर एण्ड आडीटर जनरल",
+    "abbreviation_english": "C.&.A.G.",
+    "full_form_english": "Controller & Auditor General"
+  },
+  {
+    "abbreviation_hindi": "सी.बी.आई.",
+    "full_form_hindi": "सेंट्रल ब्यूरो आफ इन्वेस्टिगेशन",
+    "abbreviation_english": "C.B.I.",
+    "full_form_english": "Central Bureau of Investigation"
+  },
+  {
+    "abbreviation_hindi": "सी.आई.ए,",
+    "full_form_hindi": "सेंट्रल इंटेलीजेंस एजेंसी (यू.एस.ए.)",
+    "abbreviation_english": "C.I.A.",
+    "full_form_english": "Central Intelligence Agency (U.S.A)"
+  },
+  {
+    "abbreviation_hindi": "डी.डी.टी.",
+    "full_form_hindi": "डिक्लोरी डिफनेल ट्रिक्लोरो ईथन (ऐन इनसेक्टीसाइड)",
+    "abbreviation_english": "D.D.T.",
+    "full_form_english": "Dichlore Diphneyl Trichloro ethane (an insecticide)"
+  },
+  {
+    "abbreviation_hindi": "डी.आई.आर.",
+    "full_form_hindi": "डिफेंस आफ इण्डिया रूल्स",
+    "abbreviation_english": "D.I.R.",
+    "full_form_english": "Defence of India Rules"
+  },
+  {
+    "abbreviation_hindi": "डी.एम.के.",
+    "full_form_hindi": "द्रविड़ मुन्नेत्र कड़गम",
+    "abbreviation_english": "D.M.K.",
+    "full_form_english": "Dravide Munnetra Kazhagam"
+  },
+  {
+    "abbreviation_hindi": "ई.सी.जी.",
+    "full_form_hindi": "इलेक्ट्रो-कार्डियो-ग्राम",
+    "abbreviation_english": "E.C.G.",
+    "full_form_english": "Electro-Cardio-Gram"
+  },
+  {
+    "abbreviation_hindi": "ई.ई.सी.",
+    "full_form_hindi": "यूरोपियन इकोनोमिक कम्युनिटी",
+    "abbreviation_english": "E.E.C.",
+    "full_form_english": "European Economic Community"
+  },
+  {
+    "abbreviation_hindi": "ई. एण्ड ओ.ई.",
+    "full_form_hindi": "ई. एण्ड ओ.ई.",
+    "abbreviation_english": "Ε. & Ο.Ε.",
+    "full_form_english": "Please Turn Over"
+  },
+  {
+    "abbreviation_hindi": "जी.एम.टी.",
+    "full_form_hindi": "ग्रीनविच मीन टाइम",
+    "abbreviation_english": "G.M.T.",
+    "full_form_english": "Greenwich Mean Time"
+  },
+  {
+    "abbreviation_hindi": "जी.पी.ओ.",
+    "full_form_hindi": "जनरल पोस्ट ऑफिस",
+    "abbreviation_english": "G.P.O.",
+    "full_form_english": "General Post Office"
+  },
+  {
+    "abbreviation_hindi": "जी.आर.पी.",
+    "full_form_hindi": "गवर्नमेंट रेलवे पुलिस",
+    "abbreviation_english": "G.R.P.",
+    "full_form_english": "Government Railway Police"
+  },
+  {
+    "abbreviation_hindi": "एच.एम.टी.",
+    "full_form_hindi": "हिन्दुस्तान मशीन टूल्स",
+    "abbreviation_english": "H.M.T.",
+    "full_form_english": "Hindustan Machine Tools"
+  },
+  {
+    "abbreviation_hindi": "एच.पी.",
+    "full_form_hindi": "हॉर्स पावर",
+    "abbreviation_english": "H.P.",
+    "full_form_english": "Horse Power"
+  },
+  {
+    "abbreviation_hindi": "आई.ए.एफ.",
+    "full_form_hindi": "इंडियन एयर फोर्स",
+    "abbreviation_english": "I.A.F.",
+    "full_form_english": "Indian Air Force"
+  },
+  {
+    "abbreviation_hindi": "आई.सी.जे.",
+    "full_form_hindi": "इंटरनेशनल कोर्ट आफ जस्टिस",
+    "abbreviation_english": "I.C.J.",
+    "full_form_english": "International Court of Justice"
+  },
+  {
+    "abbreviation_hindi": "आई.पी.एस.",
+    "full_form_hindi": "इण्डियन पुलिस सर्विस",
+    "abbreviation_english": "I.P.S.",
+    "full_form_english": "Indian Police Service"
+  },
+  {
+    "abbreviation_hindi": "आई.क्यू.",
+    "full_form_hindi": "इंटेलिजेंस कौशेंट",
+    "abbreviation_english": "I.Q.",
+    "full_form_english": "Intelligence Quotient"
+  },
+  {
+    "abbreviation_hindi": "आई.एस.आई.",
+    "full_form_hindi": "इंडियन स्टैंडर्ड इंस्टीट्यूशन",
+    "abbreviation_english": "I.S.I.",
+    "full_form_english": "Indian Standard Institution"
+  },
+  {
+    "abbreviation_hindi": "एल.आई.सी.",
+    "full_form_hindi": "लाइफ इंश्योरेंस कारपोरेशन (आफ इण्डिया)",
+    "abbreviation_english": "L.I.C.",
+    "full_form_english": "Life Insurance Corporation (of India)"
+  },
+  {
+    "abbreviation_hindi": "एम.ए.",
+    "full_form_hindi": "मास्टर ऑफ ओर्ट्स",
+    "abbreviation_english": "Μ.Α.",
+    "full_form_english": "Master of Arts"
+  },
+  {
+    "abbreviation_hindi": "एम.बी.बी.एस.",
+    "full_form_hindi": "एंड बैचलर ऑफ सर्जरी",
+    "abbreviation_english": "M.B.B.S.",
+    "full_form_english": "Bachelor of Medicine and Bachelor of Surgery"
+  },
+  {
+    "abbreviation_hindi": "एम.डी.",
+    "full_form_hindi": "मेडिकल डॉक्टर, डॉक्टर ऑफ मेडिसिन",
+    "abbreviation_english": "M.D.",
+    "full_form_english": "Medicinae Doctor, Doctor of Medicine"
+  },
+  {
+    "abbreviation_hindi": "एम.एल.ए.",
+    "full_form_hindi": "मेम्बर आफ लेजिस्लेटिव असेम्बली",
+    "abbreviation_english": "M.L.A.",
+    "full_form_english": "Member of Legislative Assembly"
+  },
+  {
+    "abbreviation_hindi": "एम.ओ.",
+    "full_form_hindi": "मेडिकल ऑफिसर, मनी ऑर्डर",
+    "abbreviation_english": "Μ.Ο.",
+    "full_form_english": "Medical Officer, Money Order"
+  },
+  {
+    "abbreviation_hindi": "एम.पी.",
+    "full_form_hindi": "मेम्बर आफ पार्लियामेंट, मिलिट्री पुलिस",
+    "abbreviation_english": "M.P.",
+    "full_form_english": "Member of Parliament, Military Police"
+  },
+  {
+    "abbreviation_hindi": "एन.सी.सी.",
+    "full_form_hindi": "नेशनल कैडेट कोर",
+    "abbreviation_english": "N.C.C.",
+    "full_form_english": "National Cadet Core"
+  },
+  {
+    "abbreviation_hindi": "एन.सी.ई.",
+    "full_form_hindi": "नेशनल काउंसिल आफ एजुकेशन रिसर्च एण्ड ट्रेनिंग",
+    "abbreviation_english": "N.C.E.R.T.",
+    "full_form_english": "National Council of Education Research and Training"
+  },
+  {
+    "abbreviation_hindi": "ओ.आई.जी. एस.",
+    "full_form_hindi": "आन इण्डिया गवर्नमेंट सर्विस",
+    "abbreviation_english": "O.I.G.S.",
+    "full_form_english": "On India Government Service"
+  },
+  {
+    "abbreviation_hindi": "पी.एच.डी.",
+    "full_form_hindi": "डाक्टर आफ फिलासफी",
+    "abbreviation_english": "Ph.D.",
+    "full_form_english": "Doctor of Philosophy"
+  },
+  {
+    "abbreviation_hindi": "पी.एम.",
+    "full_form_hindi": "पोस्ट मरिडियम (अपराह्न)",
+    "abbreviation_english": "P.M.",
+    "full_form_english": "Post Meridiem (afternoon)"
+  },
+  {
+    "abbreviation_hindi": "पी.टी.ओ.",
+    "full_form_hindi": "प्लीज टर्न ओवर",
+    "abbreviation_english": "Ρ.Τ.Ο.",
+    "full_form_english": "Please Turn Over"
+  },
+  {
+    "abbreviation_hindi": "क्यू.एम.एस.",
+    "full_form_hindi": "क्विक मेल सर्विस",
+    "abbreviation_english": "Q.M.S.",
+    "full_form_english": "Quick Mail Service"
+  },
+  {
+    "abbreviation_hindi": "आर. बी.आई.",
+    "full_form_hindi": "रिजर्व बैंक ऑफ इण्डिया",
+    "abbreviation_english": "R.B.I.",
+    "full_form_english": "Reserve Bank of India"
+  },
+  {
+    "abbreviation_hindi": "आर.एम.एस.",
+    "full_form_hindi": "रेलवे मेल सर्विस",
+    "abbreviation_english": "R.M.S.",
+    "full_form_english": "Railway Mail service"
+  },
+  {
+    "abbreviation_hindi": "आर.एस.वी.पी.",
+    "full_form_hindi": "सेटेलाइट लांच वेहिकल",
+    "abbreviation_english": "S.L.V.",
+    "full_form_english": "Setelite Launch Vehicle"
+  },
+  {
+    "abbreviation_hindi": "टैलेक्स",
+    "full_form_hindi": "टेलीप्रिंटर एक्सचेंज",
+    "abbreviation_english": "TELEX",
+    "full_form_english": "Teleprinter Exchange"
+  },
+  {
+    "abbreviation_hindi": "टी.एम.ओ.",
+    "full_form_hindi": "टेलीग्राफिक मनीआर्डर",
+    "abbreviation_english": "Τ.Μ.Ο.",
+    "full_form_english": "Telegraphic Money Order"
+  },
+  {
+    "abbreviation_hindi": "यू.एन. आई.",
+    "full_form_hindi": "यूनाइटेड न्यूज आफ इंडिया",
+    "abbreviation_english": "U.N.I.",
+    "full_form_english": "United News of India"
+  },
+  {
+    "abbreviation_hindi": "यू.एन.ओ.",
+    "full_form_hindi": "यूनाइटेड नेशन्स आर्गेनाइजेशन",
+    "abbreviation_english": "U.N.O.",
+    "full_form_english": "United Nations Orgnisation"
+  },
+  {
+    "abbreviation_hindi": "यू.पी.एस.सी.",
+    "full_form_hindi": "यूनियन पब्लिक सर्विस कमीशन",
+    "abbreviation_english": "U.P.S.C.",
+    "full_form_english": "Union Public Service Commission"
+  },
+  {
+    "abbreviation_hindi": "ए.डी.",
+    "full_form_hindi": "ए.डी. एन्नो डोमिनी (ईसा उपरान्त)",
+    "abbreviation_english": "A.D.",
+    "full_form_english": "Anno Domini"
+  },
+  {
+    "abbreviation_hindi": "ए.आई.",
+    "full_form_hindi": "एअर इंडिया",
+    "abbreviation_english": "Α.Ι.",
+    "full_form_english": "Air India"
+  },
+  {
+    "abbreviation_hindi": "ए.आई.सी.सी.",
+    "full_form_hindi": "आल इण्डिया कांग्रेस कमेटी",
+    "abbreviation_english": "A.I.C.C.",
+    "full_form_english": "All India Congress Committee"
+  },
+  {
+    "abbreviation_hindi": "बी.ए.",
+    "full_form_hindi": "बैचलर आफ आर्ट्स",
+    "abbreviation_english": "Β.Α.",
+    "full_form_english": "Bachelor of Arts"
+  },
+  {
+    "abbreviation_hindi": "सी.ए.",
+    "full_form_hindi": "चार्टर्ड एकाउंटेंट",
+    "abbreviation_english": "C.A.",
+    "full_form_english": "Chartered Accountant"
+  },
+  {
+    "abbreviation_hindi": "सी. एण्ड ए. जी.",
+    "full_form_hindi": "कंट्रोलर एण्ड आडिटर जनरल",
+    "abbreviation_english": "C.&.A.G.",
+    "full_form_english": "Controller & Auditor General"
+  },
+  {
+    "abbreviation_hindi": "सी.बी.आई.",
+    "full_form_hindi": "सेंट्रल ब्यूरो आफ इन्वेस्टिगेशन",
+    "abbreviation_english": "C.B.I.",
+    "full_form_english": "Central Bureau of Investigation"
+  },
+  {
+    "abbreviation_hindi": "सी.आई.ए.",
+    "full_form_hindi": "सेंट्रल इंटेलीजेंस एजेंसी (यू.एस.ए.)",
+    "abbreviation_english": "C.I.A.",
+    "full_form_english": "Central Intelligence Agency (U.S.A)"
+  },
+  {
+    "abbreviation_hindi": "डी.डी.टी.",
+    "full_form_hindi": "डिक्लोरी डिफनेल ट्रिक्लोरो ईथन (ऐन इंसेक्टीसाइड)",
+    "abbreviation_english": "D.D.T.",
+    "full_form_english": "Dichlore Diphneyl Trichloro ethane (an insecticide)"
+  },
+  {
+    "abbreviation_hindi": "डी.आई.आर.",
+    "full_form_hindi": "डिफेंस आफ इण्डिया रूल्स",
+    "abbreviation_english": "D.I.R.",
+    "full_form_english": "Defence of India Rules"
+  },
+  {
+    "abbreviation_hindi": "डी.एम.के.",
+    "full_form_hindi": "द्रविड़ मुन्नेत्र कड़गम",
+    "abbreviation_english": "D.M.K.",
+    "full_form_english": "Dravide Munnetra Kazhagam"
+  },
+  {
+    "abbreviation_hindi": "ई.सी.जी.",
+    "full_form_hindi": "इलेक्ट्रो-कार्डियो-ग्राम",
+    "abbreviation_english": "E.C.G.",
+    "full_form_english": "Electro-Cardio-Gram"
+  },
+  {
+    "abbreviation_hindi": "ई.ई.सी.",
+    "full_form_hindi": "यूरोपियन इकोनॉमिक कम्युनिटी",
+    "abbreviation_english": "E.E.C.",
+    "full_form_english": "European Economic Community"
+  },
+  {
+    "abbreviation_english": "ppn.",
+    "full_form_english": "preposition",
+    "abbreviation_hindi": "सम्बन्ध-बोधक।"
+  },
+  {
+    "abbreviation_english": "adj.",
+    "full_form_english": "adjective",
+    "abbreviation_hindi": "विशेषण।"
+  },
+  {
+    "abbreviation_english": "sg.",
+    "full_form_english": "singular",
+    "abbreviation_hindi": "एक-वचन।"
+  },
+  {
+    "abbreviation_english": "adv.",
+    "full_form_english": "adverb",
+    "abbreviation_hindi": "क्रिया-विशेषण।"
+  },
+  {
+    "abbreviation_english": "v. i.",
+    "full_form_english": "verb intransitive",
+    "abbreviation_hindi": "अकर्मक क्रिया।"
+  },
+  {
+    "abbreviation_english": "conj.",
+    "full_form_english": "conjunction",
+    "abbreviation_hindi": "समुच्चय-बोधक।"
+  },
+  {
+    "abbreviation_english": "v. t.",
+    "full_form_english": "verb transitive",
+    "abbreviation_hindi": "सकर्मक क्रिया।"
+  },
+  {
+    "abbreviation_english": "fm.",
+    "full_form_english": "feminine",
+    "abbreviation_hindi": "स्त्री-लिंग।"
+  },
+  {
+    "abbreviation_english": "pref.",
+    "full_form_english": "prefix",
+    "abbreviation_hindi": "उपसर्ग।"
+  },
+  {
+    "abbreviation_english": "in.",
+    "full_form_english": "interjection",
+    "abbreviation_hindi": "विस्मयादि-बोधक।"
+  },
+  {
+    "abbreviation_english": "comp.",
+    "full_form_english": "comparative",
+    "abbreviation_hindi": "विशेषणों का तुलनात्मक।"
+  },
+  {
+    "abbreviation_english": "n.",
+    "full_form_english": "noun",
+    "abbreviation_hindi": "संज्ञा।"
+  },
+  {
+    "abbreviation_english": "v. aux.",
+    "full_form_english": "verb auxiliary",
+    "abbreviation_hindi": "सहायक क्रिया।"
+  },
+  {
+    "abbreviation_english": "pl.",
+    "full_form_english": "plural",
+    "abbreviation_hindi": "बहुवचन।"
+  },
+  {
+    "abbreviation_english": "sup.",
+    "full_form_english": "superlative",
+    "abbreviation_hindi": "उत्तमतासूचक।"
+  },
+  {
+    "abbreviation_english": "pn.",
+    "full_form_english": "pronoun",
+    "abbreviation_hindi": "सर्वनाम।"
+  }
+]
